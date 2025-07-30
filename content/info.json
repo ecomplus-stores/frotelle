@@ -3,13 +3,13 @@
     "show": true,
     "title": "Entrega rápida",
     "text": "para todo o Brasil",
-    "link": "https://www.festcakes.com.br/pages/entrega"
+    "link": "https://www.frotelle.com.br/pages/entrega"
   },
   "installments": {
     "show": true,
     "title": "Parcele sem juros",
     "text": "em até 6x",
-    "link": "https://www.festcakes.com.br/pages/pagamentos"
+    "link": "https://www.frotelle.com.br/pages/pagamentos"
   },
   "exchange": {
     "show": false,
@@ -20,6 +20,6 @@
     "show": true,
     "title": "5% de desconto",
     "text": "Em pagamentos à vista",
-    "link": "https://www.festcakes.com.br/pages/pagamentos"
+    "link": "https://www.frotelle.com.br/pages/pagamentos"
   }
 }
