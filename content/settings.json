@@ -1,7 +1,7 @@
 {
   "domain": "www.frotelle.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#da291c",
+  "primary_color": "#dc1e2e",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
