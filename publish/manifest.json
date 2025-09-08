@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.3d602ecd03e5482e76ec53a813f4b5f8.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.ab5fd35c40a347c4f58f028b235728fa.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.efd836305afda6e8ae737d571d4968c1.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.97510ef7f9521f53b886ffb31c7c927d.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.ef56f4f30966b14079b6f8ab055cb386.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Frotelle",
+  "short_name": "Frotelle",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "A Frotelle surge com uma proposta de entregar uma loja completa em salgados congelados. levamos à risca valores que foram desenvolvidos carinhosamente pensando em você. \n\nNosso objetivo é ser a mais próxima, inclusiva, prestativa, sábia e simples. Nossos pilares de trabalho são qualidade, responsabilidade, parceria e confiança. Fruto de uma empresa que tem uma estabilidade no mercado.",
+  "background_color": "#ffffff",
+  "theme_color": "#dc1e2e"
+}
