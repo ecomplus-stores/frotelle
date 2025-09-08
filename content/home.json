@@ -8,39 +8,22 @@
       "full_width": true,
       "slides": [
         {
-          
           "img": "/img/uploads/festcakes_bnr_sem4_fini_01.jpg",
-          "link": "https://www.festcakes.com.br/k/recheio-fini?utm_source=site&utm_medium=banner&utm_campaign=recheio_fini"
+          "link": "https://www.festcakes.com.br/k/recheio-fini?utm_source=site&utm_medium=banner&utm_campaign=recheio_fini",
+          "start": "",
+          "end": ""
         },
         {
-          
           "img": "/img/uploads/festcakes_bnr_sem4_fini_02.jpg",
-          "link": "https://www.festcakes.com.br/k/recheio-fini?utm_source=site&utm_medium=banner&utm_campaign=recheio_fini"
+          "link": "https://www.festcakes.com.br/k/recheio-fini?utm_source=site&utm_medium=banner&utm_campaign=recheio_fini",
+          "start": "",
+          "end": ""
         }
       ]
     },
     {
       "type": "info-bar",
       "enabled": false
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "collection_id": null,
-      "sort": "offers",
-      "title": "Aqui tem promoção todo dia",
-      "headless": false,
-      "limit": 12,
-      "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "limit": 12,
-      "page": 1,
-      "sort": "sales",
-      "title": "Mais Vendidos",
-      "autoplay": ""
     },
     {
       "type": "collection-shelf",
