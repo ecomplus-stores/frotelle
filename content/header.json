@@ -1,7 +1,12 @@
 {
   "categories_list": {
     "featured": [
-      "/w/sb-confeitaria?Confeitaria"
+      "/v/confeitaria",
+      "/v/folhadas-e-croissants",
+      "/v/salgados-para-fritar",
+      "/v/salgados-para-aquecer",
+      "/v/pao-de-queijo-e-chipa",
+      "/v/assados"
     ],
     "random": 6,
     "full_width": true
