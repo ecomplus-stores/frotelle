@@ -38,7 +38,7 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "views",
+      "sort": "slug",
       "title": "Destaques",
       "link": "Destaques"
     }
