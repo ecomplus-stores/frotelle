@@ -1,12 +1,12 @@
 {
   "categories_list": {
     "featured": [
-      "/v/confeitaria",
-      "/v/folhadas-e-croissants",
-      "/v/salgados-para-fritar",
-      "/v/salgados-para-aquecer",
-      "/v/pao-de-queijo-e-chipa",
-      "/v/assados"
+      "/v/confeitaria?Confeitaria",
+      "/v/folhadas-e-croissants?Folhadas e croissants",
+      "/v/salgados-para-fritar?Salgados para fritar",
+      "/v/salgados-para-aquecer?Salgados para aquecer",
+      "/v/pao-de-queijo-e-chipa?Pão de queijo e chipa",
+      "/v/assados?Assados"
     ],
     "random": 6,
     "full_width": true
