@@ -5,34 +5,22 @@
   "menu_color": "#131313",
   "categories": [
     {
-      "title": "Mercearia"
-    },
-    {
-      "title": "Embalagens e Descartáveis"
-    },
-    {
-      "title": "Utensílios"
-    },
-    {
       "title": "Confeitaria"
     },
     {
-      "title": "Panificação"
-    },
-    {
-      "title": "Chocolates"
-    },
-    {
-      "title": "Formas"
-    },
-    {
-      "title": "Culinária"
-    },
-    {
-      "title": "Bomboniere"
-    },
-    {
       "title": "Folhadas e Croissants"
+    },
+    {
+      "title": "Salgados Para Fritar"
+    },
+    {
+      "title": "Salgados Para Aquecer"
+    },
+    {
+      "title": "Sazonal"
+    },
+    {
+      "title": "Risole Pequeno"
     }
   ]
 }
