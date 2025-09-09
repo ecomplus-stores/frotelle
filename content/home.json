@@ -31,8 +31,9 @@
       "limit": 12,
       "page": 1,
       "sort": "slug",
-      "title": "Destaques",
-      "link": "Destaques"
+      "title": "Salgados para Fritar",
+      "link": "Destaques",
+      "collection_id": "6868384e578b5f7954550f0d:categories:Salgados Para Fritar:/v/salgados-para-fritar"
     },
     {
       "type": "collection-shelf",
