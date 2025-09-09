@@ -1,21 +1,17 @@
 {
   "categories_list": {
     "featured": [
-      "/v/confeitaria?Confeitaria",
-      "/v/folhadas-e-croissants?Folhadas e croissants",
-      "/v/salgados-para-fritar?Salgados para fritar",
-      "/v/salgados-para-aquecer?Salgados para aquecer",
-      "/v/pao-de-queijo-e-chipa?Pão de queijo e chipa",
-      "/v/assados?Assados"
+      "/v/salgados-para-fritar?Salgados Para Fritar",
+      "/v/salgados-para-aquecer?Salgados Para Aquecer"
     ],
-    "random": 1,
+    "random": 8,
     "full_width": true
   },
   "menu_all_departments": false,
   "centralized_logo": false,
   "marketing_stripe": [
     {
-      "text": "Pague com pix e ganhe 5% de desconto",
+      "text": "Pague com pix e ganhe 5% de desconto ",
       "link": "",
       "background": "#090909",
       "color": "#ffffff"
