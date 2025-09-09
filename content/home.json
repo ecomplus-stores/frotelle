@@ -30,18 +30,27 @@
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "sort": "slug",
-      "title": "Salgados para Fritar",
-      "link": "Destaques",
-      "collection_id": "6868384e578b5f7954550f0d:categories:Salgados Para Fritar:/v/salgados-para-fritar"
+      "title": "Lançamentos",
+      "sort": "news"
+    },
+    {
+      "type": "collection-shelf",
+      "shuffle": false,
+      "limit": 12,
+      "page": 1,
+      "grid_type": "Comum",
+      "collection_id": "6868388c578b5f7954550f73:categories:Salgados Para Aquecer:/v/salgados-para-aquecer",
+      "title": "Salgados para Aquecer"
     },
     {
       "type": "collection-shelf",
       "shuffle": true,
       "limit": 12,
       "page": 1,
-      "title": "Lançamentos",
-      "sort": "news"
+      "sort": "slug",
+      "title": "Salgados para Fritar",
+      "link": "Destaques",
+      "collection_id": "6868384e578b5f7954550f0d:categories:Salgados Para Fritar:/v/salgados-para-fritar"
     }
   ]
 }
