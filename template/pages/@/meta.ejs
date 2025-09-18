@@ -24,8 +24,21 @@ if (resource || collection) {
   const { body, content } = await _.resolveRoute()
   _.state = Object.assign({}, body || content, _.state)
 }
-_.categories = _.categories.filter(({ slug }) => /^\w*v\w*\//.test(slug))
-_.items = _.items.filter(({ slug }) => /^\w*v\w*\//.test(slug))
+
+console.log('Total categories before filter:', _.categories.length)
+console.log('Sample slugs:', _.categories.slice(0, 10).map(cat => cat.slug))
+
+_.categories = _.categories.filter(({ slug }) => {
+  const matches = /v.*\//.test(slug)
+  if (slug.includes('folhadas')) {
+    console.log(`Folhadas category: slug="${slug}", matches=${matches}`)
+  }
+  return matches
+})
+
+console.log('Total categories after filter:', _.categories.length)
+
+_.items = _.items.filter(({ slug }) => /v.*\//.test(slug))
 
 // preset global list of active widgets
 _.widgets = []
