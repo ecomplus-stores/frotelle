@@ -5,19 +5,22 @@
   "menu_color": "#131313",
   "categories": [
     {
-      "title": "Confeitaria"
+      "title": "Salgados Para Aquecer"
     },
     {
       "title": "Salgados Para Fritar"
     },
     {
-      "title": "Salgados Para Aquecer"
+      "title": "Folhadas e Croissants"
     },
     {
-      "title": "Sazonal"
+      "title": "Pão de Queijo e Chipa"
     },
     {
-      "title": "Risole Pequeno"
+      "title": "Assados"
+    },
+    {
+      "title": "Confeitaria"
     }
   ]
 }
