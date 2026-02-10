@@ -1687,20 +1687,12 @@ header #filterShop2{display:none!important}
   margin-bottom: var(--spacer-2);
 }
 
+// hiding buying actions 
 
-.card-product-wrapper .product-card__shelf-life{
-    position: absolute;
-    z-index: 2;
-    left: 5px;
-    bottom: 5px;
-    top: auto;
-    font-size: 12px;
-    padding: 3px 6px;
-    margin: 0;
+.price-wrap, .add-to-cart, .badge-info, .badge, .badge-dark, .nav-account, .nav-cart, .header-right {
+
+  display: none
+
 }
-@media(max-width:767.98px){
-  .card-product-wrapper .product-card__shelf-life{
-    font-size: 9px;
-    padding: 2px 5px;    
-  }
-}
+
+// hiding buying actions 
